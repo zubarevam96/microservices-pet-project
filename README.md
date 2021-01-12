@@ -5,7 +5,7 @@ Project simulates backend-side of movie ratings agregators, and contains some in
 
 Microservices:
 - discovery-server - only contains [Eureka server](https://www.tutorialspoint.com/spring_boot/spring_boot_eureka_server.htm);
-all other microservice in this project will comunicate through it via Eureka client
+all other microservice in this project will comunicate with it via Eureka client
 - Movie-info-service - contains some basic info about movies like name and description
 - Movie-catalog-service - shows movie list that was watched by user
 - ratings-info-service - contains information about movie's ratings (by particular person and overall)
