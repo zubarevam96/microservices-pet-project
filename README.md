@@ -1,5 +1,5 @@
 # microservices-pet-project
-This project is the result of following to [this](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas) playlist
+This project is the result of following to [this](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas) playlist.
 Project uses Spring (boot, cloud, web) and Eureka frameworks and built with Maven.
 Project simulates backend-side of movie ratings agregators, and contains some info about movies, their ratings and users watched-list. 
 
