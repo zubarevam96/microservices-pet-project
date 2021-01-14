@@ -12,4 +12,4 @@ Microservices:
 |ratings-info-service|contains information about movie's ratings (by particular person and overall)|
 # How to Build it
 This application uses ports 8761 (for server) and 8091-8093 (for clients). To build this application firstly launch discovery server; then make sure that server is online by going to http://localhost:8761/; after that launch all other instances.<br>
-Now You can get access to "user's movies list" by hitting http://localhost:8091/catalog/{userId}. 
+Now You can get access to "user's movies list" by hitting http://localhost:8092/catalog/{userId}. 
